@@ -33,7 +33,7 @@ Hey there! 👋 I'm Olayiwola Riliwan Odunsi, a Senior Software Engineer and Ful
 - 🤝 Extensive experience collaborating with cross-functional teams to develop innovative solutions and optimize software performance.
 - ✨ Passionate about creating seamless user experiences and contributing to open-source projects.
 
-🌟 Throughout my career, I have gained valuable experience by successfully working on a diverse range of projects across various sectors, including healthtech, fintech, social good, and more. These projects have provided me with a deep understanding of industry-specific challenges and the ability to adapt and deliver innovative solutions. I thrive in dynamic environments and enjoy tackling complex problems to drive meaningful impact. 
+🌟 Throughout my career, I've gained valuable experience working on diverse projects in healthtech, fintech, social good, and more. This has deepened my understanding of industry-specific challenges and honed my ability to deliver innovative solutions. I thrive in dynamic environments and excel at tackling complex problems with meaningful impact. 
 
 🤝 If you're interested in collaborating or have any questions, feel free to reach out. Let's create something amazing together! 🤝
 
