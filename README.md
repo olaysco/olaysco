@@ -14,11 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=olaysco" alt="profile views" />
 </p>
 
----
 
-### 🧠 About Me
-I'm **Olayiwola Odunsi**, a **Senior Backend Engineer** passionate about **building scalable distributed systems** and evolving into a **System Architect**.  
-I design **high-performance APIs**, **microservices**, and **resilient backend infrastructures** that power production workloads at scale.
+### quis sum?
+I'm Olayiwola Odunsi 🥷, a Senior Backend Engineer presently focused on deepening my understaning of building highly performant distributed systems and hoping to evolve into a System Architect before the AI overlords takes over.  
 
 
 
